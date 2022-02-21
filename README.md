@@ -14,7 +14,7 @@ The second script is for converting list of contacts containing two fields (name
 <li>Run script and get distribution of mails by email domains</li>
 </ul>
 
-<b>Usage - Fisrt script</b>
+<b>Usage - Second script</b>
 <ul>
 <li>Place source csv file in the folder where python file is located</li>
 <li>Open python file</li>
